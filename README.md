@@ -13,14 +13,14 @@ Goal: to get aquainted with the architectural complexity and functionality of th
 5. Data Optimization: ensure efficient data retrievaland storage through database optimizations
 
 Tech Stack
-Django: A high-level Python web framework used for building the RESTful API and web applications.
-Django REST Framework: Provides tools for creating and managing RESTful APIs.
-PostgreSQL: A powerful relational database used for data storage.
-GraphQL: Allows for flexible and efficient querying of data in the database.
-Celery: For handling asynchronous tasks such as sending notifications or processing payments.
-Redis: Used for caching and session management.
-Docker: Containerization tool for consistent development and deployment environments.
-5. CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+1. Django: A high-level Python web framework used for building the RESTful API and web applications.
+2. Django REST Framework: Provides tools for creating and managing RESTful APIs.
+3. PostgreSQL: A powerful relational database used for data storage.
+4. GraphQL: Allows for flexible and efficient querying of data in the database.
+5. Celery: For handling asynchronous tasks such as sending notifications or processing payments.
+6. Redis: Used for caching and session management.
+7. Docker: Containerization tool for consistent development and deployment environments.
+8. CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
 
 👥 Team Roles
@@ -28,3 +28,16 @@ Backend Developer: Responsible for implementing API endpoints, database schemas,
 Database Administrator: Manages database design, indexing, and optimizations.
 DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
 QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+
+
+Database Design
+
+key entities required for the project:
+entity: fields ---> relations
+Users: id, username, password, email --> user can have multiple property, book multiple properties, can review/rate a property, pay for property, recieve payment.
+Properties: id, name, --> property is own by only one user
+Bookings: id, booking details --> user who owns the booked a property 
+Reviews: id, property_reviewed 
+Payments: id amount sender, reciever
+
+
