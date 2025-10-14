@@ -13,7 +13,7 @@ Goal: to get aquainted with the architectural complexity and functionality of th
 5. Data Optimization: ensure efficient data retrievaland storage through database optimizations
 
 Tech Stack
-Django: A high-level Python web framework used for building the RESTful API.
+Django: A high-level Python web framework used for building the RESTful API and web applications.
 Django REST Framework: Provides tools for creating and managing RESTful APIs.
 PostgreSQL: A powerful relational database used for data storage.
 GraphQL: Allows for flexible and efficient querying of data.
