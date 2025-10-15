@@ -12,14 +12,13 @@ Goal: to get aquainted with the architectural complexity and functionality of th
 5. Data Optimization: ensure efficient data retrievaland storage through database optimizations
 
 ## Tech Stack
-1. Django: A high-level Python web framework used for building the RESTful API and web applications.
-2. Django REST Framework: Provides tools for creating and managing RESTful APIs.
-3. PostgreSQL: A powerful relational database used for data storage.
-4. GraphQL: Allows for flexible and efficient querying of data in the database.
-5. Celery: For handling asynchronous tasks such as sending notifications or processing payments.
-6. Redis: Used for caching and session management.
-7. Docker: Containerization tool for consistent development and deployment environments.
-8. CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+1. **Django**: A high-level Python web framework used for building the RESTful APIs and dynamic web applications.
+2. PostgreSQL: A powerful relational database used for data storage.
+3. **GraphQL**: Allows for flexible and efficient querying of data in the database.
+4. **Celery**: For handling asynchronous tasks such as sending notifications or processing payments.
+5. **Redis**: Used for caching and session management.
+6. **Docker**: Containerization tool for consistent development and deployment environments.
+7. **CI/CD Pipelines**: Automated pipelines for testing and deploying code changes.
 
 
 ## 👥 Team Roles
