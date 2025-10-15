@@ -13,7 +13,7 @@ Goal: to get aquainted with the architectural complexity and functionality of th
 
 ## Tech Stack
 1. **Django**: A high-level Python web framework used for building the RESTful APIs and dynamic web applications.
-2. PostgreSQL: A powerful relational database used for data storage.
+2. **PostgreSQL**: A powerful relational database used for data storage.
 3. **GraphQL**: Allows for flexible and efficient querying of data in the database.
 4. **Celery**: For handling asynchronous tasks such as sending notifications or processing payments.
 5. **Redis**: Used for caching and session management.
@@ -100,7 +100,7 @@ Improve Code Quality: Automated testing and validation ensure that code changes 
 ## Tools for CI/CD Pipelines
 Some popular tools for implementing CI/CD pipelines include:
 - GitHub Actions: Automates workflows, including testing, building, and deployment, directly within GitHub.
-- Docker: Provides containerization, allowing for consistent and reliable deployment across environments.
+- Docker `#0969DA`: Provides containerization, allowing for consistent and reliable deployment across environments.
 - Jenkins: A popular open-source automation server for building, testing, and deploying software.
 - CircleCI: A cloud-based CI/CD platform that automates testing, building, and deployment.
 - GitLab CI/CD: A built-in CI/CD tool within GitLab that automates testing, building, and deployment.
