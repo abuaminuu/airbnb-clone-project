@@ -100,7 +100,7 @@ Improve Code Quality: Automated testing and validation ensure that code changes 
 ## Tools for CI/CD Pipelines
 Some popular tools for implementing CI/CD pipelines include:
 - GitHub Actions: Automates workflows, including testing, building, and deployment, directly within GitHub.
-- Docker `#RRGGBB`: Provides containerization, allowing for consistent and reliable deployment across environments.
+- Docker #RRGGBB: Provides containerization, allowing for consistent and reliable deployment across environments.
 - Jenkins: A popular open-source automation server for building, testing, and deploying software.
 - CircleCI: A cloud-based CI/CD platform that automates testing, building, and deployment.
 - GitLab CI/CD: A built-in CI/CD tool within GitLab that automates testing, building, and deployment.
