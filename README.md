@@ -1,5 +1,14 @@
 # Project Name: AIRBNB-CLONE-PROJECT 
-Overview\
+```markdown
+### Overview of Airbnb  
+
+**Airbnb** is a global online marketplace that connects people looking for accommodation with hosts offering lodging, typically short-term stays, in their homes or properties. Founded in **2008** in San Francisco by **Brian Chesky, Joe Gebbia, and Nathan Blecharczyk**, the platform started as a way to rent out air mattresses in a small apartment and has since grown into one of the world’s leading travel and hospitality companies. It operates in over **190 countries** and offers listings that include apartments, houses, villas, cabins, and even unique stays like treehouses and castles.  
+
+The core of Airbnb’s business model is the **sharing economy**, where individuals monetize their unused spaces while travelers gain access to affordable and personalized lodging options. The platform facilitates bookings, handles payments securely, and allows both hosts and guests to review each other, building a **reputation-based trust system**. Airbnb charges a **service fee** to both hosts and guests for each transaction, which serves as its main source of revenue.  
+
+Over the years, Airbnb has expanded its offerings beyond accommodations. It now includes **Airbnb Experiences**, where local hosts offer cultural, recreational, or educational activities to travelers. Despite challenges from regulations, competition, and the COVID-19 pandemic, Airbnb has shown resilience by adapting its services, focusing on local travel, and emphasizing unique, longer-term stays. In **December 2020**, the company went public, underscoring its position as a major player in the global tourism and hospitality industry.  
+```
+
 Objective: The backend for the Airbnb Clone project is designed to provide a robust and scalable foundation for managing user interactions, property listings, bookings, and payments. This backend will support various functionalities required to mimic the core features of Airbnb, ensuring a smooth experience for users and hosts.
 
 Goal: to get aquainted with the architectural complexity and functionality of the popular booking app airbnb through completion of the following tasks.
