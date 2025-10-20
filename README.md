@@ -1,5 +1,5 @@
 # Project Name: AIRBNB-CLONE-PROJECT 
-```markdown
+
 ### Overview of Airbnb  
 
 **Airbnb** is a global online marketplace that connects people looking for accommodation with hosts offering lodging, typically short-term stays, in their homes or properties. Founded in **2008** in San Francisco by **Brian Chesky, Joe Gebbia, and Nathan Blecharczyk**, the platform started as a way to rent out air mattresses in a small apartment and has since grown into one of the world’s leading travel and hospitality companies. It operates in over **190 countries** and offers listings that include apartments, houses, villas, cabins, and even unique stays like treehouses and castles.  
