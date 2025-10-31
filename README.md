@@ -20,7 +20,7 @@ Goal: to get aquainted with the architectural complexity and functionality of th
 3. Review System: allows users to leave reviews and ratings for properties
 5. Data Optimization: ensure efficient data retrievaland storage through database optimizations
 
-## Tech Stack
+## Technology Stack
 1. **Django**: A high-level Python web framework used for building the RESTful APIs and dynamic web applications.
 2. **PostgreSQL**: A powerful relational database used for data storage.
 3. **GraphQL**: Allows for flexible and efficient querying of data in the database.
