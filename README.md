@@ -47,7 +47,7 @@ format: **entity: fields ---> relations**
 * Reviews: id, property_reviewed 
 * Payments: id amount sender, reciever
 
-## Feature Details
+## Feature Breakdown
 
 1. User Management
 The User Management feature allows hosts and guests to create profiles, manage their accounts, and track their activities on the platform. This feature contributes to the project by enabling users to maintain their personal information and history, building trust within the community. It also allows for personalized experiences and targeted recommendations.
